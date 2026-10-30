@@ -35,7 +35,9 @@ The application integrates MySQL for storing and managing attendance-related inf
 
 ### 1. Application Execution
 
-![Application Execution](screenshots/application.png)
+<img width="1600" height="721" alt="REGISTERATION" src="https://github.com/user-attachments/assets/61e8947c-73bd-470a-bb8f-518cf868e16e" />
+
+
 
 ### 2. QR Code Attendance
 
