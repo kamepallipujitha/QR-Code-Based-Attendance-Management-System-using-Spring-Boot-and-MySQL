@@ -41,11 +41,16 @@ The application integrates MySQL for storing and managing attendance-related inf
 
 ### 2. QR Code Attendance
 
-![QR Code Attendance](screenshots/qrcode.png)
+<img width="1391" height="714" alt="QR-GENERATION" src="https://github.com/user-attachments/assets/4040c7b1-eb34-459f-93b9-803e1f6c027c" />
+
 
 ### 3. Attendance Records
 
-![Attendance Records](screenshots/attendance.png)
+<img width="1235" height="703" alt="ATTENDENCE MARKING" src="https://github.com/user-attachments/assets/40fe1b26-8f63-4692-ba57-1a07144ead75" />
+
+<img width="1600" height="313" alt="ATTENDENCE" src="https://github.com/user-attachments/assets/41016de3-71eb-42f8-be53-8dd48bfa1a2f" />
+
+
 
 > Replace the screenshot filenames above with your actual image filenames.
 
